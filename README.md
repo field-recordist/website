@@ -4,7 +4,7 @@ This repository contains the source code for my "Sound Recordist" weblog.
 
 ### Weblog URL:
 
-[https:soundrecordist.im](https:soundrecordist.im)
+[https://soundrecordist.im](https://soundrecordist.im)
 
 ### Licenses:
 
