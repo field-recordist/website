@@ -1,11 +1,11 @@
-### Sound Recordist Journal:
+### Field Recordist website:
 
-This repository contains the source code for my "Sound Recordist" Journal.
+This repository contains the source code for my "Field Recordist" website.
 
-### Journal URL:
+### Website URL:
 
-[https://soundrecordist.im](https://soundrecordist.im)
+[https://fieldrecordist.org](https://fieldrecordist.org)
 
 ### Licenses:
 
-This is my personal journal. You are free to reuse the content under the terms of [CC-BY-NC](https://github.com/sound-recordist/soundrecordist/blob/main/CC-BY-NC-4.0-LICENSE.md) license, and the code under the terms of the [MIT](https://github.com/sound-recordist/soundrecordist/blob/main/MIT-LICENSE.md) license.
+This is my personal website. You are free to reuse the content under the terms of [CC-BY-NC](https://github.com/field-recordist/website/blob/main/CC-BY-NC-4.0-LICENSE.md) license, and the code under the terms of the [MIT](https://github.com/field-recordist/website/blob/main/MIT-LICENSE.md) license.
